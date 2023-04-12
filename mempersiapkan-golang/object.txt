@@ -1,0 +1,5 @@
+Tidak ada istilah "class" di golang
+
+Tidak ada inheritance
+Tidak ada instance
+Tidak ada generic
